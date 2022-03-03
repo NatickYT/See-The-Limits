@@ -12,3 +12,4 @@
 - HTML
 - Yaml
 - Xml
+- Shell

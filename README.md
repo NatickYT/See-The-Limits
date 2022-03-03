@@ -17,3 +17,4 @@
 - Rust
 - Batchfile
 - Css
+- Python

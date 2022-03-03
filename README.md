@@ -15,3 +15,4 @@
 - Shell
 - Ruby
 - Rust
+- Batchfile

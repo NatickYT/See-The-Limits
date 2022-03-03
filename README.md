@@ -13,3 +13,5 @@
 - Yaml
 - Xml
 - Shell
+- Ruby
+- Rust

@@ -19,3 +19,4 @@
 - Css
 - Python
 - Binary Compressed
+- Text

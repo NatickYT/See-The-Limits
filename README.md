@@ -18,3 +18,4 @@
 - Batchfile
 - Css
 - Python
+- Binary Compressed
